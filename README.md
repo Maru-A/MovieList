@@ -1,1 +1,1 @@
-# MovieList
+MovieList es una aplicación para registro de películas vistas por el usuario donde el mismo se puede registrar, iniciar sesión, agregar películas, ver el listado y estadísticas de las películas guardadas y ver un mapa de usuarios de la plataforma en america del sur. Se completó usando una API que contaba con asistencia de un ML para comprobar si el comentario sobre la película era bueno, neutro o malo para poder ser agregada.
