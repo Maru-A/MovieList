@@ -1,0 +1,9 @@
+
+ion-content {
+    --background: url("../img/fondo.jpeg") no-repeat center center / cover;
+}
+
+#elMapa {
+    height: 100vh;
+    width: 100vw;
+}
